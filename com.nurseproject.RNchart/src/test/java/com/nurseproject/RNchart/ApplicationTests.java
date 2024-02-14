@@ -1,4 +1,4 @@
-package com.example.com.nurseproject.RNchart;
+package com.nurseproject.RNchart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
